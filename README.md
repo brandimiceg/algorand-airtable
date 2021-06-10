@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Wikipedia enrichment app
 
 This example app finds extracts and images from Wikipedia for records in your base and saves the
@@ -22,3 +23,6 @@ The code shows:
 ## See the app running
 
 ![App updating the base with content from wikipedia](./media/block.gif)
+=======
+# algorand-airtable
+>>>>>>> 8fb4cbec19997298510fccc94103180826d4dd65
